@@ -1,0 +1,7 @@
+Data Integrity Policy
+
+The application "RCPC - Remote Control PC" (also referenced as "RCPC") and its creator does not send any data to the creator or associated third parties. During the use of the application, by connecting to a server, you (the user) send a unique device identifier to the given server. The server uses this unique device identifier to check whether the connecting device should be automatically accepted. It is not stored if you do not explicitly tell the server to save it and automatically accept in future connections.
+
+No public servers are provided and therefore the creator does not have access to any of this data. The creator only provides the server software and apps needed to connect to the server and it is up to the server host to clarify and be responsible for the data handling.
+
+If you have any questions you can contact the creator/developer at rej.konrad@gmail.com, specify RCPC in the title.
