@@ -36,7 +36,7 @@
 <h3 align="center">RCPC</h3>
 
   <p align="center">
-    RCPC aims to provide a easy to use tv style remote for your pc. Using your phone, connect to a server on your pc and control it using the touchpad and mediakey views.
+    RCPC aims to provide an easy to use tv style remote for your pc. Using your phone, connect to a server on your pc and control it using the touchpad and mediakey views.
     <br />
     <br />
     <a href="https://github.com/konradrej/RCPC/issues">Report Bug</a>
