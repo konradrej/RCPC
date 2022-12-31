@@ -148,9 +148,9 @@ For getting started instructions please go to one of the <a href="#projects">pro
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Rewrite server and client to not rely on RCPC Core 
-- [] Keyboard View
-- [] Support for more operating systems
+- [ ] Rewrite server and client to not rely on RCPC Core 
+- [ ] Keyboard View
+- [ ] Support for more operating systems
 
 See the [open issues](https://github.com/konradrej/RCPC/issues) for a full list of proposed features (and known issues).
 
